@@ -1,0 +1,10 @@
+com\example\librarybackend\repo\LoginRepository.class
+com\example\librarybackend\domain\LoginCredential.class
+com\example\librarybackend\LibraryBackendApplication.class
+com\example\librarybackend\domain\Book.class
+com\example\librarybackend\repo\BookRepository.class
+com\example\librarybackend\repo\StudentRepository.class
+com\example\librarybackend\web\BookController.class
+com\example\librarybackend\web\AuthController.class
+com\example\librarybackend\web\StudentController.class
+com\example\librarybackend\domain\Student.class
