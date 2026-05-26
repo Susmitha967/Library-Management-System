@@ -1,4 +1,4 @@
-# How to run this project (any computer)
+# How to run this project 
 
 This app has **three parts**. Start them in this order:
 
@@ -243,14 +243,3 @@ Use a row from the `login` table (default: **admin** / **admin**).
 | Blank UI backgrounds | Image files under `src/img/` may be missing in some downloads; app still works |
 
 ---
-
-## Sharing the project with a team
-
-1. Put the code on GitHub/GitLab (do **not** commit passwords).
-2. Each developer installs Java + PostgreSQL locally.
-3. Each developer runs the SQL in Step 3 once.
-4. Each developer sets `LIB_DB_PASSWORD` to their own PostgreSQL password.
-5. Everyone follows **Step A → Step B → Step C** every time.
-
-More API details: `backend/README.md`  
-PostgreSQL notes: `README_POSTGRES.md`
